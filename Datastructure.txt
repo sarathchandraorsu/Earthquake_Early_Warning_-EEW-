@@ -1,0 +1,44 @@
+Machine learning for fast and reliable source-location estimation in earthquake early warning
+
+
+IEEE Geoscience and Remote Sensing Letters and Machine Learning,Volume:19,Issue Date:12.January.2022
+
+Earthquake Early Warning (EEW) system;Machine learning; Earthquake Location.
+
+estimation_in_earthquake_earlywarning
+
+
+Estimation_in_Earthquake_Early_Warning
+
+
+
+
+earthquake_early_warning_prediction
+
+
+ewtime
+latitude
+longitude
+depth
+mag
+magType
+nst
+gap
+dmin
+rms
+net
+idn
+updated
+place
+horizontalError
+depthError
+magError
+magNst
+Prediction
+
+
+
+explosion
+
+
+
